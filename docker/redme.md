@@ -16,3 +16,4 @@
 
 - Docker simplifies the development and delivery of applications.
 - Docker allows developers to separate their applications from their infrastructure.
+- Docker reduces the delay between writing code and running it in production.
