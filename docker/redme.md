@@ -7,3 +7,5 @@
 ### How does Docker Work?
 
 - Docker provides a standard way to run code.
+- Docker containers virtualize the operating system of a server.
+- Docker containers are lightweight and can run on a single physical server.
