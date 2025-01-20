@@ -21,4 +21,3 @@
 **Use cases**
 
 - Docker is used in microservices, continuous integration, and deployment.
-- Docker can be used to build, ship, and run distributed applications at any scale.
