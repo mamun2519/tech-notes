@@ -5,5 +5,3 @@
 . Containers are standardized units that contain everything an application needs to run, including code, libraries, and runtime.
 
 ### How does Docker Work?
-
-- Docker provides a standard way to run code.
