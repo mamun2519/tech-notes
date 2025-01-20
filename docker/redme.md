@@ -19,5 +19,3 @@
 - Docker reduces the delay between writing code and running it in production.
 
 **Use cases**
-
-- Docker is used in microservices, continuous integration, and deployment.
