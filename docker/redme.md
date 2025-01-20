@@ -13,5 +13,3 @@
 - Docker registries are repositories for Docker images.
 
 **Benefits**
-
-- Docker simplifies the development and delivery of applications.
