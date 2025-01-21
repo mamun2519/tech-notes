@@ -33,5 +33,3 @@ code, runtime, system tools, system libraries and settings.
 - Build an Image from a Dockerfile
 
 ⇒ docker build -t <image_name> .
-
-- Build an Image from a Dockerfile without the cache
