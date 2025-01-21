@@ -41,3 +41,7 @@ code, runtime, system tools, system libraries and settings.
 - List local images
 
 ⇒ docker images
+
+- Delete an Image
+
+⇒ docker rmi <image_name>
