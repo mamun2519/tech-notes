@@ -43,5 +43,3 @@ code, runtime, system tools, system libraries and settings.
 ⇒ docker images
 
 - Delete an Image
-
-⇒ docker rmi <image_name>
