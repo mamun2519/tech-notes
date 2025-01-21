@@ -45,3 +45,7 @@ code, runtime, system tools, system libraries and settings.
 - Delete an Image
 
 ⇒ docker rmi <image_name>
+
+- Remove all unused images
+
+⇒docker image prune
