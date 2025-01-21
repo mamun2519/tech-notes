@@ -22,3 +22,10 @@
 
 - Docker is used in microservices, continuous integration, and deployment.
 - Docker can be used to build, ship, and run distributed applications at any scale.
+
+## Docker Basic Command
+
+**IMAGES
+⇒** Docker images are a lightweight, standalone, executable package
+of software that includes everything needed to run an application:
+code, runtime, system tools, system libraries and settings.
